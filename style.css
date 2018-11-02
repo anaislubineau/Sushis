@@ -269,7 +269,7 @@ h2
 		#trouverrestaurant 
 		{
 			position: relative;
-			background-image: url(images/plan.png), url(images/plan.png);
+			background-image: url(images/plan.PNG), url(images/plan.PNG);
 			background-size: 192px 192px, cover;
 			background-position: top left, center center;
 			text-align: center;
